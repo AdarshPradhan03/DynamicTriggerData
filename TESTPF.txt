@@ -1,0 +1,11 @@
+                R TESTRR
+                  FLD01          3A
+                  FLD02          5P 2
+                  FLD03         11P 2
+                  FLD04          5A
+                  FLD05          2S 2
+                  FLD06          2S 0
+                  FLD07           L
+                  FLD08           T
+                  FLD09           Z
+                  FLD10         10A
